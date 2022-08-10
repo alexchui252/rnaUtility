@@ -9,6 +9,7 @@
 #' @return returns filtered dataframe
 #'
 #' @examples
+#' filtered_data <- filter_low_counts(data)
 filter_low_counts <- function(data, one_cpm_to_counts = 10, first_col = 1){
     require(edgeR)
     

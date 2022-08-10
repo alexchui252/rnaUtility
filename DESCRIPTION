@@ -8,3 +8,4 @@ Description: Organize common functions and methods during analysis and
     visualization tasks with gene expression data.
 License: MIT
 Encoding: UTF-8
+RoxygenNote: 7.2.1
